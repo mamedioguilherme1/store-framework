@@ -4,7 +4,7 @@
     font-weight: normal;
     color: gray;
     border: 2px solid black;
-    padding: 24px;
+    padding: 24px; 
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
