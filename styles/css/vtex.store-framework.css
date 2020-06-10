@@ -1,3 +1,9 @@
 .infoCardContainer--vintage {
   background-color: #EDCFD1
 }
+.info-card#button-right,
+.info-card#button-right {
+  max-width: 1260px;
+  margin: 0 auto;
+  padding: 0;
+}
